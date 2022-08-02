@@ -8,7 +8,7 @@ from datetime import date
 from dotenv import load_dotenv
 
 """
-Twitch Report
+Twitch Config Setup
 Last Updated: July 27, 2022
 
 This script generates a yaml config containing a list of streamers with emotes

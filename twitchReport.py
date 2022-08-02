@@ -18,10 +18,10 @@ Run through command prompt/terminal
 
 Input:
 Windows
-py twitchReport.py (Input folder) (Generated File Name) --savepath (Save Path) 
+py twitchReport.py (Streamer Title) (Input folder) (Generated File Name) (Config Path) (Excel Template Path) --savepath (Save Path) 
 
 Mac
-python3 twitchReport.py (Input folder) (Generated File Name) --savepath (Save Path) 
+python3 twitchReport.py (Streamer Title) (Input folder) (Generated File Name) (Config Path) (Excel Template Path) --savepath (Save Path)  
 """
 
 
