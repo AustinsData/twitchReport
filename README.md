@@ -1,7 +1,13 @@
 # Purpose 
 Twitch Report is built for those who are looking to analyse their favourite streamers' emote usage or gifted sub count.
 
+![example_excel_image](images/excel_example.png)
+
+
 Twitch Text to CSV is built to organise Twitch Chat data into a format that can be more easily parsed and saved. 
+
+![example_csv_image](images/csv_example.png)
+
 
 ## Twitch Report Creation
 See option 1 "https://www.datasourse.com/check-or-download-twitch-chat-log-history/" to find out how to download Twitch channels' chat logs. 
