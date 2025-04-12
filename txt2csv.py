@@ -15,10 +15,10 @@ Run through command prompt/terminal
 
 Input:
 Windows
-py -3 twitchReport.py (Input folder) (Generated Folder Name) --savepath (Save Path) 
+py -3 txt2csv.py (Input folder) (Generated Folder Name) --savepath (Save Path) 
 
 Mac
-python3 twitchReport.py (Input folder) (Generated Folder Name) --savepath (Save Path) 
+python3 txt2csv.py (Input folder) (Generated Folder Name) --savepath (Save Path) 
 """
 
 
@@ -102,7 +102,7 @@ def run(input_folder_path, output_folder, output_path):
                 twitchChat_df['Utterance'] = twitchChat_df['Utterance'].apply(normalise_utterance)
 
                 # Generate new folder to contain csv files
-                csv_output_folder = "csv_" + output_folder
+                csv_output_folder = output_folder + "CSV"
                 csv_output_folder_path = os.path.join(output_path, csv_output_folder)
                 os.makedirs(csv_output_folder_path, exist_ok=True)
                 # Generate file creation date

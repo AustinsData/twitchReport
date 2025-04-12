@@ -1,0 +1,2236 @@
+39daph:
+  emotes:
+  - id: '302419165'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/302419165/static/light/3.0
+    name: daphSnot
+    tier: '1000'
+  - id: '1603412'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/1603412/static/light/3.0
+    name: daphQuack
+    tier: '1000'
+  - id: '1733918'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/1733918/static/light/3.0
+    name: daphThonk
+    tier: '1000'
+  - id: '300333595'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/300333595/static/light/3.0
+    name: daphCough
+    tier: '1000'
+  - id: '303323545'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/303323545/static/light/3.0
+    name: daphYamero
+    tier: '3000'
+  - id: emotesv2_c0d5dc8059744989a358d35f91d52087
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_c0d5dc8059744989a358d35f91d52087/static/light/3.0
+    name: daphCheer
+    tier: '1000'
+  - id: emotesv2_4bfe0be30103470bac8ea61322c288d9
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_4bfe0be30103470bac8ea61322c288d9/static/light/3.0
+    name: daphJR
+    tier: '1000'
+  - id: '304739284'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/304739284/static/light/3.0
+    name: daphPray
+    tier: '1000'
+  - id: '300708685'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/300708685/static/light/3.0
+    name: daphBrug
+    tier: '1000'
+  - id: '304381619'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/304381619/static/light/3.0
+    name: daphStab
+    tier: '1000'
+  - id: '303592065'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/303592065/static/light/3.0
+    name: daphFlushed
+    tier: '1000'
+  - id: '302077213'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/302077213/static/light/3.0
+    name: daphDepresso
+    tier: '1000'
+  - id: '303323538'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/303323538/static/light/3.0
+    name: daphOk
+    tier: '2000'
+  - id: '306762253'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/306762253/static/light/3.0
+    name: daphM
+    tier: '1000'
+  - id: '304381627'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/304381627/static/light/3.0
+    name: daphLurk
+    tier: '1000'
+  - id: '1605406'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/1605406/static/light/3.0
+    name: daphMoodLove
+    tier: '3000'
+  - id: '303323541'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/303323541/static/light/3.0
+    name: daphCri
+    tier: '2000'
+  - id: '301772233'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/301772233/static/light/3.0
+    name: daphFocus
+    tier: '1000'
+  - id: '306762276'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/306762276/static/light/3.0
+    name: daphPotion
+    tier: '1000'
+  - id: emotesv2_5beb038bd2904046a51918a28e47ac36
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_5beb038bd2904046a51918a28e47ac36/static/light/3.0
+    name: daphSit
+    tier: '1000'
+  - id: emotesv2_143d440ad23e485b8ab3d5d32a46c172
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_143d440ad23e485b8ab3d5d32a46c172/static/light/3.0
+    name: daphTYPERS
+    tier: '1000'
+  - id: '301483249'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/301483249/static/light/3.0
+    name: daphLaud
+    tier: '1000'
+  - id: '301171649'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/301171649/static/light/3.0
+    name: daphO
+    tier: '1000'
+  - id: emotesv2_6b540d712742408a85758f4783979cb4
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_6b540d712742408a85758f4783979cb4/static/light/3.0
+    name: daphHug
+    tier: '1000'
+  - id: emotesv2_687ad1b33cd84f86be421b2957eb8069
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_687ad1b33cd84f86be421b2957eb8069/static/light/3.0
+    name: daphX
+    tier: '1000'
+  - id: '306762243'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/306762243/static/light/3.0
+    name: daphHeart
+    tier: '1000'
+  - id: '306762256'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/306762256/static/light/3.0
+    name: daphNerd
+    tier: '1000'
+  - id: '2057274'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/2057274/static/light/3.0
+    name: daphYion
+    tier: '1000'
+  - id: '1603259'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/1603259/static/light/3.0
+    name: daphT
+    tier: '1000'
+  - id: '300674481'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/300674481/static/light/3.0
+    name: daphVaN
+    tier: '1000'
+  - id: '306762263'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/306762263/static/light/3.0
+    name: daphSociety
+    tier: '1000'
+  - id: '300815545'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/300815545/static/light/3.0
+    name: daphHarold
+    tier: '1000'
+  - id: '300889153'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/300889153/static/light/3.0
+    name: daphSucc
+    tier: '1000'
+  - id: '307608986'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/307608986/static/light/3.0
+    name: daphSun
+    tier: '1000'
+  - id: emotesv2_c6b795b9c43d41ec91bf3d5deeab347b
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_c6b795b9c43d41ec91bf3d5deeab347b/static/light/3.0
+    name: daphPirate
+    tier: '1000'
+  - id: '306762261'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/306762261/static/light/3.0
+    name: daphRead
+    tier: '1000'
+  - id: '303323542'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/303323542/static/light/3.0
+    name: daphBlush
+    tier: '2000'
+  - id: '1603256'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/1603256/static/light/3.0
+    name: daphCozy
+    tier: '1000'
+  - id: '302306636'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/302306636/static/light/3.0
+    name: daphSmile
+    tier: '1000'
+  - id: '306762278'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/306762278/static/light/3.0
+    name: daphLove
+    tier: '3000'
+  - id: emotesv2_50537080d247433c9e712cec4026a7c7
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_50537080d247433c9e712cec4026a7c7/static/light/3.0
+    name: daphArt
+    tier: '1000'
+  - id: '306762274'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/306762274/static/light/3.0
+    name: daphSip
+    tier: '1000'
+  - id: '300740859'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/300740859/static/light/3.0
+    name: daph2head
+    tier: '1000'
+  - id: emotesv2_9b4262498d8c4e99917559e979f7ecce
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_9b4262498d8c4e99917559e979f7ecce/static/light/3.0
+    name: daphYikes
+    tier: '1000'
+  - id: '307608962'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/307608962/static/light/3.0
+    name: daphPain
+    tier: '1000'
+  - id: '304029245'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/304029245/static/light/3.0
+    name: daphSlep
+    tier: '1000'
+  - id: '306762239'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/306762239/static/light/3.0
+    name: daphBeg
+    tier: '1000'
+  - id: '301344656'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/301344656/static/light/3.0
+    name: daphScreech
+    tier: '1000'
+  - id: emotesv2_58bde04aed274ee59194af4a09dd4765
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_58bde04aed274ee59194af4a09dd4765/static/light/3.0
+    name: daphMango
+    tier: '1000'
+  - id: '300902176'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/300902176/static/light/3.0
+    name: daphShirt
+    tier: '1000'
+  - id: '1605469'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/1605469/static/light/3.0
+    name: daphMood
+    tier: '2000'
+  - id: emotesv2_70d7b50e4bd942d19f67674374635363
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_70d7b50e4bd942d19f67674374635363/static/light/3.0
+    name: daphFurry
+    tier: '1000'
+  - id: emotesv2_922750d5e008406993e975371ab0e0f3
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_922750d5e008406993e975371ab0e0f3/static/light/3.0
+    name: daphSEN
+    tier: '1000'
+  - id: '303323536'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/303323536/static/light/3.0
+    name: daphFine
+    tier: '2000'
+  - id: '306762267'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/306762267/static/light/3.0
+    name: daphStealth
+    tier: '1000'
+  - id: '300740862'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/300740862/static/light/3.0
+    name: daphLol
+    tier: '1000'
+  - id: '302071866'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/302071866/static/light/3.0
+    name: daphBlind
+    tier: '1000'
+  - id: '303323547'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/303323547/static/light/3.0
+    name: daphWhy
+    tier: '3000'
+  - id: '302385634'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/302385634/static/light/3.0
+    name: daphOU
+    tier: '1000'
+  - id: '303323544'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/303323544/static/light/3.0
+    name: daphLoad
+    tier: '3000'
+  - id: emotesv2_30eb049b05e04876be5a1a05b2b7fe81
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_30eb049b05e04876be5a1a05b2b7fe81/static/light/3.0
+    name: daphStand
+    tier: '1000'
+  - id: '301046547'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/301046547/static/light/3.0
+    name: daphBong
+    tier: '1000'
+  - id: '307608966'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/307608966/static/light/3.0
+    name: daphLook
+    tier: '1000'
+  - id: '301732091'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/301732091/static/light/3.0
+    name: daphWeird
+    tier: '1000'
+  - id: '300674987'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/300674987/static/light/3.0
+    name: daphHide
+    tier: '1000'
+  - id: '300740864'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/300740864/static/light/3.0
+    name: daph39
+    tier: '1000'
+  - id: '1603257'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/1603257/static/light/3.0
+    name: daphW
+    tier: '1000'
+  - id: '301344657'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/301344657/static/light/3.0
+    name: daphScreechH
+    tier: '1000'
+  id: '160504245'
+  login: 39daph
+AMOURANTH:
+  emotes:
+  - id: '489765'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/489765/static/light/3.0
+    name: ammoKaiba
+    tier: '1000'
+  - id: emotesv2_3db93c1de00c46048cbca4f3e538eae3
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_3db93c1de00c46048cbca4f3e538eae3/static/light/3.0
+    name: ammoBearJAM
+    tier: '1000'
+  - id: '1043853'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/1043853/static/light/3.0
+    name: ammoDad
+    tier: '1000'
+  - id: emotesv2_0a428af77ad341b6864ab4dbdd54e5d8
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_0a428af77ad341b6864ab4dbdd54e5d8/static/light/3.0
+    name: ammoJack
+    tier: '1000'
+  - id: '1398938'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/1398938/static/light/3.0
+    name: ammoElon
+    tier: '1000'
+  - id: emotesv2_b7dd4e1b01af4d7c8f262ec51623decc
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_b7dd4e1b01af4d7c8f262ec51623decc/static/light/3.0
+    name: ammoPeanut
+    tier: ''
+  - id: '1254874'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/1254874/static/light/3.0
+    name: ammoEvil
+    tier: '1000'
+  - id: emotesv2_2a6678ad8c5f4e5d87dc6f669884bcce
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_2a6678ad8c5f4e5d87dc6f669884bcce/static/light/3.0
+    name: ammoPetthenoxy
+    tier: '1000'
+  - id: emotesv2_e0a73caee63b435c81ae1ffe1098bdbe
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_e0a73caee63b435c81ae1ffe1098bdbe/static/light/3.0
+    name: ammoMiko
+    tier: '1000'
+  - id: '1398902'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/1398902/static/light/3.0
+    name: ammoHoggers
+    tier: '1000'
+  - id: '350839'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/350839/static/light/3.0
+    name: ammoDaeLander
+    tier: '1000'
+  - id: emotesv2_e9b09ee0f428494d877965863fea558d
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_e9b09ee0f428494d877965863fea558d/static/light/3.0
+    name: ammoGG
+    tier: '1000'
+  - id: '487453'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/487453/static/light/3.0
+    name: ammoBrock
+    tier: '1000'
+  - id: emotesv2_7b10229c3a1741588cf42ef583427b0e
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_7b10229c3a1741588cf42ef583427b0e/static/light/3.0
+    name: ammoAlluux
+    tier: '1000'
+  - id: '300938239'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/300938239/static/light/3.0
+    name: ammoGasp
+    tier: '1000'
+  - id: '1762476'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/1762476/static/light/3.0
+    name: ammoSteel
+    tier: '1000'
+  - id: '929889'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/929889/static/light/3.0
+    name: ammoBruh
+    tier: '1000'
+  - id: emotesv2_71a8f5c012ab44eb8825c0715fffdcc0
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_71a8f5c012ab44eb8825c0715fffdcc0/static/light/3.0
+    name: ammoPetthebear
+    tier: '1000'
+  - id: '1792009'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/1792009/static/light/3.0
+    name: ammoHeart
+    tier: '1000'
+  - id: '485492'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/485492/static/light/3.0
+    name: ammoHeman
+    tier: '1000'
+  - id: '1035995'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/1035995/static/light/3.0
+    name: ammoThump
+    tier: '1000'
+  - id: '489812'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/489812/static/light/3.0
+    name: ammoYoda
+    tier: '1000'
+  - id: '251200'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/251200/static/light/3.0
+    name: ammoRage
+    tier: '1000'
+  - id: emotesv2_a9f582c9aaab49b8be600110ccb85ce7
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_a9f582c9aaab49b8be600110ccb85ce7/static/light/3.0
+    name: ammoPointcrow
+    tier: '1000'
+  - id: emotesv2_ffa03a6e43194d5f91d19086bf47833b
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_ffa03a6e43194d5f91d19086bf47833b/static/light/3.0
+    name: ammoHYPE
+    tier: ''
+  - id: '487378'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/487378/static/light/3.0
+    name: ammoHorse
+    tier: '1000'
+  - id: emotesv2_2228c6a1088643d4b9d1e4a5b592f535
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_2228c6a1088643d4b9d1e4a5b592f535/static/light/3.0
+    name: ammoErobb
+    tier: '1000'
+  - id: '1796586'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/1796586/static/light/3.0
+    name: ammoJim
+    tier: '1000'
+  - id: '1072917'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/1072917/static/light/3.0
+    name: ammoDab
+    tier: '1000'
+  - id: emotesv2_41a4d5d8c14645528d45b1d784bcaf3e
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_41a4d5d8c14645528d45b1d784bcaf3e/static/light/3.0
+    name: ammoNihachu
+    tier: '1000'
+  - id: emotesv2_43ef2f7d8fbd4ef1869531df88150183
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_43ef2f7d8fbd4ef1869531df88150183/static/light/3.0
+    name: ammoNoxJAM
+    tier: '1000'
+  - id: emotesv2_e3d532aa5e724d19b3faa7ef05347615
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_e3d532aa5e724d19b3faa7ef05347615/static/light/3.0
+    name: ammoPeach
+    tier: '1000'
+  - id: '295882'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/295882/static/light/3.0
+    name: ammoAndroid18
+    tier: '1000'
+  - id: '788268'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/788268/static/light/3.0
+    name: ammoCringe
+    tier: '1000'
+  - id: '942295'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/942295/static/light/3.0
+    name: ammoWut
+    tier: '1000'
+  - id: '489873'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/489873/static/light/3.0
+    name: ammoDeathstare
+    tier: '1000'
+  - id: '1787286'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/1787286/static/light/3.0
+    name: ammoKnight
+    tier: '1000'
+  - id: '1398931'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/1398931/static/light/3.0
+    name: ammoFroggers
+    tier: '1000'
+  - id: '929945'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/929945/static/light/3.0
+    name: ammoBless
+    tier: '1000'
+  - id: emotesv2_d79616ff84534ac68e79b01e4d363432
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_d79616ff84534ac68e79b01e4d363432/static/light/3.0
+    name: ammoRon
+    tier: '1000'
+  - id: emotesv2_9c81b4d7256b4a9bbde366017c92cbfb
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_9c81b4d7256b4a9bbde366017c92cbfb/static/light/3.0
+    name: ammoPetthehog
+    tier: '1000'
+  - id: emotesv2_b39b318b0ff1451da65f0a3761d177e1
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_b39b318b0ff1451da65f0a3761d177e1/static/light/3.0
+    name: ammoFAIL
+    tier: '1000'
+  - id: emotesv2_4e81e72e564140c59db71168c1517a40
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_4e81e72e564140c59db71168c1517a40/static/light/3.0
+    name: ammoAiden
+    tier: '1000'
+  - id: '663059'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/663059/static/light/3.0
+    name: ammoLUL
+    tier: '1000'
+  - id: '2033839'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/2033839/static/light/3.0
+    name: ammoLeo
+    tier: '1000'
+  - id: '631156'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/631156/static/light/3.0
+    name: ammoShade
+    tier: '1000'
+  - id: emotesv2_2f64367cb28342f98224c5d70bab7156
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_2f64367cb28342f98224c5d70bab7156/static/light/3.0
+    name: ammoMoist
+    tier: '1000'
+  - id: '301821643'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/301821643/static/light/3.0
+    name: ammoBear
+    tier: '3000'
+  - id: emotesv2_ac383b2423684b4d9ac07370d0ca2731
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_ac383b2423684b4d9ac07370d0ca2731/static/light/3.0
+    name: ammoWubby
+    tier: '1000'
+  - id: emotesv2_7d38b6346a8a477e971e101637995f73
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_7d38b6346a8a477e971e101637995f73/static/light/3.0
+    name: ammoKitty
+    tier: '1000'
+  - id: '1131341'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/1131341/static/light/3.0
+    name: ammoHarry
+    tier: '1000'
+  - id: '300938264'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/300938264/static/light/3.0
+    name: ammoHey
+    tier: '1000'
+  - id: emotesv2_ecc2795ab33d43c2aa620a1d1aca6ebf
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_ecc2795ab33d43c2aa620a1d1aca6ebf/static/light/3.0
+    name: ammoFanheart
+    tier: '1000'
+  - id: '797340'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/797340/static/light/3.0
+    name: ammoPoggers
+    tier: '1000'
+  - id: emotesv2_d803c16408e04e60a08926b9b6168c9a
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_d803c16408e04e60a08926b9b6168c9a/static/light/3.0
+    name: ammoFundy
+    tier: '1000'
+  - id: '1791828'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/1791828/static/light/3.0
+    name: ammoFreeman
+    tier: '1000'
+  - id: emotesv2_0536cb66c0174086a50e467d8b7d04d9
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_0536cb66c0174086a50e467d8b7d04d9/static/light/3.0
+    name: ammoAlinity
+    tier: '1000'
+  - id: '1398893'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/1398893/static/light/3.0
+    name: ammoFlexL
+    tier: '1000'
+  - id: '300270901'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/300270901/static/light/3.0
+    name: ammoDany
+    tier: '1000'
+  - id: '723643'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/723643/static/light/3.0
+    name: ammoNO
+    tier: '1000'
+  - id: '1398894'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/1398894/static/light/3.0
+    name: ammoFlexR
+    tier: '1000'
+  - id: '698077'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/698077/static/light/3.0
+    name: ammoDEWAY
+    tier: '1000'
+  - id: emotesv2_08ba78dd98eb45958b0555bd247dae95
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_08ba78dd98eb45958b0555bd247dae95/static/light/3.0
+    name: ammoJenna
+    tier: '1000'
+  - id: '130411'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/130411/static/light/3.0
+    name: ammoShaqkappa
+    tier: '1000'
+  - id: '1762453'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/1762453/static/light/3.0
+    name: ammoWow
+    tier: '1000'
+  - id: emotesv2_d452be3d7f5248fab6ef9b55a5615699
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_d452be3d7f5248fab6ef9b55a5615699/static/light/3.0
+    name: ammoMinx
+    tier: '1000'
+  - id: '295966'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/295966/static/light/3.0
+    name: ammoBoobRoss
+    tier: '1000'
+  - id: '1145125'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/1145125/static/light/3.0
+    name: ammoNoxy
+    tier: '1000'
+  id: '125387632'
+  login: amouranth
+Gorgc:
+  emotes:
+  - id: '300079142'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/300079142/static/light/3.0
+    name: gorgcAngery
+    tier: '1000'
+  - id: '301927760'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/301927760/static/light/3.0
+    name: gorgcFlower
+    tier: '1000'
+  - id: '1191272'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/1191272/static/light/3.0
+    name: gorgcPeepeeHands
+    tier: '1000'
+  - id: '170896'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/170896/static/light/3.0
+    name: gorgcW
+    tier: '1000'
+  - id: '1054202'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/1054202/static/light/3.0
+    name: gorgcB
+    tier: '1000'
+  - id: emotesv2_dc74341566a04437b22f36f8dc1512a7
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_dc74341566a04437b22f36f8dc1512a7/static/light/3.0
+    name: gorgcStare
+    tier: '1000'
+  - id: '301902268'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/301902268/static/light/3.0
+    name: gorgcStone
+    tier: '1000'
+  - id: '828047'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/828047/static/light/3.0
+    name: gorgcEZ
+    tier: '1000'
+  - id: '301902263'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/301902263/static/light/3.0
+    name: gorgcH
+    tier: '1000'
+  - id: '1932714'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/1932714/static/light/3.0
+    name: gorgcJebait
+    tier: '1000'
+  - id: '879646'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/879646/static/light/3.0
+    name: gorgcGorp
+    tier: '1000'
+  - id: emotesv2_f3b93697dff145119a2e8a86507ac5c8
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_f3b93697dff145119a2e8a86507ac5c8/static/light/3.0
+    name: gorgcShake
+    tier: '1000'
+  - id: emotesv2_c339aa260a504808b704a75579ea63f5
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_c339aa260a504808b704a75579ea63f5/static/light/3.0
+    name: gorgcMaus
+    tier: ''
+  - id: '1054203'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/1054203/static/light/3.0
+    name: gorgcC
+    tier: '1000'
+  - id: '301066892'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/301066892/static/light/3.0
+    name: gorgcSanta
+    tier: '1000'
+  - id: '1191277'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/1191277/static/light/3.0
+    name: gorgcKomrade
+    tier: '1000'
+  - id: '1403349'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/1403349/static/light/3.0
+    name: gorgcHydra2
+    tier: '1000'
+  - id: '1926884'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/1926884/static/light/3.0
+    name: gorgcJam
+    tier: '1000'
+  - id: emotesv2_f2a5ba2cf7e54fbb9982e740eadf8b32
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_f2a5ba2cf7e54fbb9982e740eadf8b32/static/light/3.0
+    name: gorgcDespair
+    tier: '1000'
+  - id: '403811'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/403811/static/light/3.0
+    name: gorgc1more
+    tier: '1000'
+  - id: '681200'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/681200/static/light/3.0
+    name: gorgcGirl
+    tier: '1000'
+  - id: '300089140'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/300089140/static/light/3.0
+    name: gorgcSmile
+    tier: '1000'
+  - id: '728277'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/728277/static/light/3.0
+    name: gorgcK
+    tier: '1000'
+  - id: '1562976'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/1562976/static/light/3.0
+    name: gorgcMega
+    tier: '3000'
+  - id: '300079181'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/300079181/static/light/3.0
+    name: gorgcChamp
+    tier: '2000'
+  - id: emotesv2_07801a8445ae481d86e596d1c4730bd5
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_07801a8445ae481d86e596d1c4730bd5/static/light/3.0
+    name: gorgcBackpack
+    tier: '1000'
+  - id: '209447'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/209447/static/light/3.0
+    name: gorgcCool
+    tier: '1000'
+  - id: '1616652'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/1616652/static/light/3.0
+    name: gorgcFine
+    tier: '1000'
+  - id: emotesv2_544f1c211bf64fe081a731fdbabe208c
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_544f1c211bf64fe081a731fdbabe208c/static/light/3.0
+    name: gorgcCalm
+    tier: '1000'
+  - id: '1616647'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/1616647/static/light/3.0
+    name: gorgcHmm
+    tier: '1000'
+  - id: '301927764'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/301927764/static/light/3.0
+    name: gorgcAA
+    tier: '1000'
+  - id: '1054201'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/1054201/static/light/3.0
+    name: gorgcA
+    tier: '1000'
+  - id: '585744'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/585744/static/light/3.0
+    name: gorgcSmurf
+    tier: '1000'
+  - id: emotesv2_b37fa6dc018e43acbcacce9fddbcde52
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_b37fa6dc018e43acbcacce9fddbcde52/static/light/3.0
+    name: gorgcMorris
+    tier: '1000'
+  - id: '1932715'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/1932715/static/light/3.0
+    name: gorgc3Head
+    tier: '1000'
+  - id: '459643'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/459643/static/light/3.0
+    name: gorgcPride
+    tier: '1000'
+  - id: emotesv2_2824c606049847938b179c4fa574007c
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_2824c606049847938b179c4fa574007c/static/light/3.0
+    name: gorgcCozy
+    tier: '1000'
+  - id: '1562988'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/1562988/static/light/3.0
+    name: gorgcSmart
+    tier: '1000'
+  - id: '1177570'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/1177570/static/light/3.0
+    name: gorgcTP
+    tier: '1000'
+  - id: '1011170'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/1011170/static/light/3.0
+    name: gorgcClown
+    tier: '1000'
+  - id: '1540727'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/1540727/static/light/3.0
+    name: gorgcGasp
+    tier: '1000'
+  - id: '302265039'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/302265039/static/light/3.0
+    name: gorgcBald
+    tier: '1000'
+  - id: '304232676'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/304232676/static/light/3.0
+    name: gorgcLucky
+    tier: '1000'
+  - id: '301453869'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/301453869/static/light/3.0
+    name: gorgcYEP
+    tier: '1000'
+  - id: '1054228'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/1054228/static/light/3.0
+    name: gorgcD
+    tier: '1000'
+  - id: '1616660'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/1616660/static/light/3.0
+    name: gorgcAyaya
+    tier: '1000'
+  - id: '301056894'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/301056894/static/light/3.0
+    name: gorgcPresent
+    tier: '1000'
+  id: '108268890'
+  login: gorgc
+Mizkif:
+  emotes:
+  - id: emotesv2_018336b9995b44bba8db6d1eb6b0d213
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_018336b9995b44bba8db6d1eb6b0d213/static/light/3.0
+    name: mizkifYUMP
+    tier: '1000'
+  - id: emotesv2_a834b7fde2654757810ec3c400adb50c
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_a834b7fde2654757810ec3c400adb50c/static/light/3.0
+    name: mizkifBinoculars
+    tier: '1000'
+  - id: '305783629'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/305783629/static/light/3.0
+    name: mizkifOh
+    tier: '1000'
+  - id: emotesv2_6acf1df09f934cbfb0e3d1cf0f1ea945
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_6acf1df09f934cbfb0e3d1cf0f1ea945/static/light/3.0
+    name: mizkifCorp
+    tier: '1000'
+  - id: '300981482'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/300981482/static/light/3.0
+    name: mizkifFish
+    tier: '1000'
+  - id: '300268806'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/300268806/static/light/3.0
+    name: mizkifGEgg
+    tier: '3000'
+  - id: '1528453'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/1528453/static/light/3.0
+    name: mizkifEZ
+    tier: '1000'
+  - id: emotesv2_0b76ec3f906f4483b34e6ff0b76c548a
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_0b76ec3f906f4483b34e6ff0b76c548a/static/light/3.0
+    name: mizkifGaze
+    tier: '1000'
+  - id: emotesv2_346885dc3ff843d89751b2d222247a89
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_346885dc3ff843d89751b2d222247a89/static/light/3.0
+    name: mizkifBlankies
+    tier: '1000'
+  - id: emotesv2_d45cb8eb76284e04af9bce7d9f12e631
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_d45cb8eb76284e04af9bce7d9f12e631/static/light/3.0
+    name: mizkifNod
+    tier: '1000'
+  - id: '301842178'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/301842178/static/light/3.0
+    name: mizkifChin
+    tier: '1000'
+  - id: emotesv2_fd3f654ff67f4ca69423c6c24d2ecd9c
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_fd3f654ff67f4ca69423c6c24d2ecd9c/static/light/3.0
+    name: mizkifBench
+    tier: '1000'
+  - id: '300844594'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/300844594/static/light/3.0
+    name: mizkifW4
+    tier: '1000'
+  - id: '300382738'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/300382738/static/light/3.0
+    name: mizkifHA
+    tier: '1000'
+  - id: '300482904'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/300482904/static/light/3.0
+    name: mizkifW
+    tier: '1000'
+  - id: '1277941'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/1277941/static/light/3.0
+    name: mizkifC
+    tier: '1000'
+  - id: '300844592'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/300844592/static/light/3.0
+    name: mizkifW3
+    tier: '1000'
+  - id: emotesv2_8010f16d9d9f40409bd40666f45c4128
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_8010f16d9d9f40409bd40666f45c4128/static/light/3.0
+    name: mizkifParm
+    tier: '1000'
+  - id: '1510527'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/1510527/static/light/3.0
+    name: mizkifJif
+    tier: '1000'
+  - id: emotesv2_36db0a36c1fd4ae1a4702ad09c30ae58
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_36db0a36c1fd4ae1a4702ad09c30ae58/static/light/3.0
+    name: mizkifMarch
+    tier: '1000'
+  - id: '1528404'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/1528404/static/light/3.0
+    name: mizkifPls
+    tier: '1000'
+  - id: '300240740'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/300240740/static/light/3.0
+    name: mizkifCry
+    tier: '1000'
+  - id: '301311317'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/301311317/static/light/3.0
+    name: mizkifPainschamp
+    tier: '1000'
+  - id: '303614231'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/303614231/static/light/3.0
+    name: mizkifAww
+    tier: '1000'
+  - id: '300702377'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/300702377/static/light/3.0
+    name: mizkifSad
+    tier: '1000'
+  - id: '301038062'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/301038062/static/light/3.0
+    name: mizkifYo
+    tier: '1000'
+  - id: emotesv2_97341f551d3f498ab1caa4106d1f887e
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_97341f551d3f498ab1caa4106d1f887e/static/light/3.0
+    name: mizkifCurl
+    tier: '1000'
+  - id: '2100311'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/2100311/static/light/3.0
+    name: mizkifHugs
+    tier: '1000'
+  - id: '301597397'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/301597397/static/light/3.0
+    name: mizkifSweat
+    tier: '1000'
+  - id: emotesv2_95ff47dca4a54bb4bb5b0f5f7b745c37
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_95ff47dca4a54bb4bb5b0f5f7b745c37/static/light/3.0
+    name: mizkifTalk
+    tier: '1000'
+  - id: '2094638'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/2094638/static/light/3.0
+    name: mizkifOkay
+    tier: '1000'
+  - id: '301310664'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/301310664/static/light/3.0
+    name: mizkifCozy
+    tier: '1000'
+  - id: emotesv2_de21e3371a0843d4aa27416eb32ff254
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_de21e3371a0843d4aa27416eb32ff254/static/light/3.0
+    name: mizkifLeave
+    tier: '1000'
+  - id: emotesv2_af3347ee79c54650a9bb3b4fb81b1707
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_af3347ee79c54650a9bb3b4fb81b1707/static/light/3.0
+    name: mizkifAngry
+    tier: '1000'
+  - id: emotesv2_4c5a4ddffd6c4f538a6bf2597f0a561a
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_4c5a4ddffd6c4f538a6bf2597f0a561a/static/light/3.0
+    name: mizkifHypers
+    tier: '1000'
+  - id: '304507322'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/304507322/static/light/3.0
+    name: mizkifD
+    tier: '1000'
+  - id: '302179201'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/302179201/static/light/3.0
+    name: mizkifSpray
+    tier: '1000'
+  - id: emotesv2_2336944fb2344e5e863b09f196a0c3be
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_2336944fb2344e5e863b09f196a0c3be/static/light/3.0
+    name: mizkifFlip
+    tier: '1000'
+  - id: '303077128'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/303077128/static/light/3.0
+    name: mizkifKid
+    tier: '1000'
+  - id: '1510524'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/1510524/static/light/3.0
+    name: mizkifToast
+    tier: '1000'
+  - id: '302306163'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/302306163/static/light/3.0
+    name: mizkifSadge
+    tier: ''
+  - id: '300844590'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/300844590/static/light/3.0
+    name: mizkifW2
+    tier: '1000'
+  - id: '301311311'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/301311311/static/light/3.0
+    name: mizkifPout
+    tier: '1000'
+  - id: emotesv2_7c6c66e775c34edaa85ec74327b1745f
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_7c6c66e775c34edaa85ec74327b1745f/static/light/3.0
+    name: mizkifMao
+    tier: '1000'
+  - id: emotesv2_cd9c256099654d63a5d5e855f65266c3
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_cd9c256099654d63a5d5e855f65266c3/static/light/3.0
+    name: mizkifWheel
+    tier: '1000'
+  - id: emotesv2_20dd9f22f4fd4535a766df6689b9ff60
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_20dd9f22f4fd4535a766df6689b9ff60/static/light/3.0
+    name: mizkifHey
+    tier: '1000'
+  - id: '301311315'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/301311315/static/light/3.0
+    name: mizkifSmall
+    tier: '1000'
+  - id: '1471388'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/1471388/static/light/3.0
+    name: mizkifH
+    tier: '1000'
+  - id: emotesv2_075a2fea6ba946f5a757deb81cf0cdb4
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_075a2fea6ba946f5a757deb81cf0cdb4/static/light/3.0
+    name: mizkifPositive
+    tier: '1000'
+  - id: '301051957'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/301051957/static/light/3.0
+    name: mizkifSleeper
+    tier: ''
+  - id: '301318663'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/301318663/static/light/3.0
+    name: mizkifGun2
+    tier: '1000'
+  - id: emotesv2_17cadfe669bf43f193bcfdda0f2e23ef
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_17cadfe669bf43f193bcfdda0f2e23ef/static/light/3.0
+    name: mizkifWicked
+    tier: '1000'
+  - id: '1634555'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/1634555/static/light/3.0
+    name: mizkifHug
+    tier: ''
+  - id: '1478579'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/1478579/static/light/3.0
+    name: mizkifE
+    tier: '1000'
+  - id: emotesv2_1c351a82098c4182ba9f7287a4f91752
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_1c351a82098c4182ba9f7287a4f91752/static/light/3.0
+    name: mizkifPunch
+    tier: '1000'
+  - id: emotesv2_083b1e083fd54676814ed94d570757be
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_083b1e083fd54676814ed94d570757be/static/light/3.0
+    name: mizkifBusiness
+    tier: '1000'
+  - id: emotesv2_e2eaf439dca949e7bb6314b26bf2b0b6
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_e2eaf439dca949e7bb6314b26bf2b0b6/static/light/3.0
+    name: mizkifNOW
+    tier: '1000'
+  - id: emotesv2_717450aa0b914dd78ad296c7dcb9af14
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_717450aa0b914dd78ad296c7dcb9af14/static/light/3.0
+    name: mizkifStar
+    tier: '1000'
+  - id: emotesv2_c49813ee2d4a49db848974b6774b6a09
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_c49813ee2d4a49db848974b6774b6a09/static/light/3.0
+    name: mizkifNorpa
+    tier: '1000'
+  - id: '301311314'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/301311314/static/light/3.0
+    name: mizkifBat
+    tier: '1000'
+  - id: '300844589'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/300844589/static/light/3.0
+    name: mizkifW1
+    tier: '1000'
+  - id: '1571630'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/1571630/static/light/3.0
+    name: mizkifEgg
+    tier: '1000'
+  - id: emotesv2_e27bfc4cc2db433fbb71d85ebaac7e98
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_e27bfc4cc2db433fbb71d85ebaac7e98/static/light/3.0
+    name: mizkifYorpa
+    tier: '1000'
+  - id: '301223834'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/301223834/static/light/3.0
+    name: mizkifShrug
+    tier: '1000'
+  - id: '301376086'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/301376086/static/light/3.0
+    name: mizkifSleepy
+    tier: '1000'
+  - id: '301040809'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/301040809/static/light/3.0
+    name: mizkifSat
+    tier: ''
+  - id: emotesv2_765e16507dfc488b9c1bd97df68612c0
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_765e16507dfc488b9c1bd97df68612c0/static/light/3.0
+    name: mizkifL
+    tier: ''
+  id: '94753024'
+  login: mizkif
+ThePrimeagen:
+  emotes:
+  - id: '301177781'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/301177781/static/light/3.0
+    name: primeagenWorstMod
+    tier: '1000'
+  - id: '306751409'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/306751409/static/light/3.0
+    name: primeagenHarpoon
+    tier: '1000'
+  - id: emotesv2_6fe30a52cb7f40078e5ec4f3d6048c0a
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_6fe30a52cb7f40078e5ec4f3d6048c0a/static/light/3.0
+    name: primeagenLi
+    tier: '1000'
+  - id: '306751104'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/306751104/static/light/3.0
+    name: primeagenJustice
+    tier: '1000'
+  - id: emotesv2_6a4841fc64754fb59aa70f0cdb63de48
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_6a4841fc64754fb59aa70f0cdb63de48/static/light/3.0
+    name: primeagenYapp
+    tier: '1000'
+  - id: '306981855'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/306981855/static/light/3.0
+    name: primeagenW
+    tier: '1000'
+  - id: emotesv2_84b2afd8bdba4a93853fea072a0faed1
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_84b2afd8bdba4a93853fea072a0faed1/static/light/3.0
+    name: primeagenSus
+    tier: '1000'
+  - id: emotesv2_b985f2ecf78f4f15bd1605926e0ebd10
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_b985f2ecf78f4f15bd1605926e0ebd10/static/light/3.0
+    name: primeagenSlider
+    tier: '1000'
+  - id: '303147442'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/303147442/static/light/3.0
+    name: primeagenThicc
+    tier: '1000'
+  - id: emotesv2_6bfcbe677bb54868970173417c22610b
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_6bfcbe677bb54868970173417c22610b/static/light/3.0
+    name: primeagenVirtue
+    tier: '1000'
+  - id: emotesv2_a11ce586570d4daf9caa83bfbc8a6e5c
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_a11ce586570d4daf9caa83bfbc8a6e5c/static/light/3.0
+    name: primeagenF
+    tier: '1000'
+  - id: '1598562'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/1598562/static/light/3.0
+    name: primeagenPlay
+    tier: '1000'
+  - id: '1673883'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/1673883/static/light/3.0
+    name: primeagenB
+    tier: '1000'
+  - id: emotesv2_691f249040374ecd9008b09961607940
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_691f249040374ecd9008b09961607940/static/light/3.0
+    name: primeagenCringe
+    tier: '1000'
+  - id: '300767529'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/300767529/static/light/3.0
+    name: primeagenBig
+    tier: '1000'
+  - id: '307110456'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/307110456/static/light/3.0
+    name: primeagenBP
+    tier: '1000'
+  - id: '301225120'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/301225120/static/light/3.0
+    name: primeagenAJasm
+    tier: '1000'
+  - id: emotesv2_8dacc6af211a42cd82ab5dbda8ded800
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_8dacc6af211a42cd82ab5dbda8ded800/static/light/3.0
+    name: primeagenNani
+    tier: '1000'
+  - id: '303147426'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/303147426/static/light/3.0
+    name: primeagenGer
+    tier: '1000'
+  - id: '303147428'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/303147428/static/light/3.0
+    name: primeagenOil
+    tier: '1000'
+  - id: emotesv2_c999ae6cf0444d10aeec3ebb50dc958c
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_c999ae6cf0444d10aeec3ebb50dc958c/static/light/3.0
+    name: primeagenClap1
+    tier: '1000'
+  - id: emotesv2_abec1416d0d24ae59f71ac267716744d
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_abec1416d0d24ae59f71ac267716744d/static/light/3.0
+    name: primeagenPain
+    tier: '1000'
+  - id: emotesv2_783e9cf96a0a4babaeab9357b36119e2
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_783e9cf96a0a4babaeab9357b36119e2/static/light/3.0
+    name: primeagenStonks
+    tier: '1000'
+  - id: emotesv2_2c6bfd8c56124f28a7d4c416e895debc
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_2c6bfd8c56124f28a7d4c416e895debc/static/light/3.0
+    name: primeagenBday
+    tier: '1000'
+  - id: emotesv2_6d6c6c3a2441464eb8553fd127621de1
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_6d6c6c3a2441464eb8553fd127621de1/static/light/3.0
+    name: primeagenVtuber
+    tier: '1000'
+  - id: emotesv2_d256f52575484137bbcf7101cea075ec
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_d256f52575484137bbcf7101cea075ec/static/light/3.0
+    name: primeagenTpope
+    tier: '1000'
+  - id: '303147421'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/303147421/static/light/3.0
+    name: primeagenBan
+    tier: '1000'
+  - id: emotesv2_6a0a90bd68624c9f9804a0a24854ea79
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_6a0a90bd68624c9f9804a0a24854ea79/static/light/3.0
+    name: primeagenClap2
+    tier: '1000'
+  - id: emotesv2_2ecea7fe155e463f947898834b8049d9
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_2ecea7fe155e463f947898834b8049d9/static/light/3.0
+    name: primeagenSexy
+    tier: '1000'
+  - id: '303147449'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/303147449/static/light/3.0
+    name: primeagenEmacs
+    tier: '1000'
+  - id: emotesv2_89e8cfefff14420d95d289f5e15733d1
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_89e8cfefff14420d95d289f5e15733d1/static/light/3.0
+    name: primeagenGrift
+    tier: '1000'
+  - id: '1673032'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/1673032/static/light/3.0
+    name: primeagenO
+    tier: '1000'
+  - id: '1674093'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/1674093/static/light/3.0
+    name: primeagenScience
+    tier: '1000'
+  - id: '301382691'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/301382691/static/light/3.0
+    name: primeagenCreep
+    tier: '1000'
+  - id: '1673033'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/1673033/static/light/3.0
+    name: primeagenT
+    tier: '1000'
+  - id: emotesv2_166d673041054e1ebb77c6adf7d35cb1
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_166d673041054e1ebb77c6adf7d35cb1/static/light/3.0
+    name: primeagenWAT
+    tier: '1000'
+  - id: emotesv2_40aa542b98cd43879dfef7ca39ede4c4
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_40aa542b98cd43879dfef7ca39ede4c4/static/light/3.0
+    name: primeagenVSCode
+    tier: '1000'
+  - id: emotesv2_79ccbe97a1154dcfb66e2767fe2311ae
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_79ccbe97a1154dcfb66e2767fe2311ae/static/light/3.0
+    name: primeagenChill
+    tier: '1000'
+  - id: '301363803'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/301363803/static/light/3.0
+    name: primeagenLove
+    tier: '1000'
+  - id: '1598570'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/1598570/static/light/3.0
+    name: primeagenPew
+    tier: '3000'
+  - id: '1598564'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/1598564/static/light/3.0
+    name: primeagenChat
+    tier: '2000'
+  - id: '300767527'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/300767527/static/light/3.0
+    name: primeagenHands
+    tier: '1000'
+  - id: '301167473'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/301167473/static/light/3.0
+    name: primeagenGasm
+    tier: '1000'
+  - id: emotesv2_19ad39cd8f8a469287e14fe33ed2bd85
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_19ad39cd8f8a469287e14fe33ed2bd85/static/light/3.0
+    name: primeagenWTH
+    tier: '1000'
+  - id: '307474988'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/307474988/static/light/3.0
+    name: primeagenPiq
+    tier: '1000'
+  - id: '303147434'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/303147434/static/light/3.0
+    name: primeagenProgasm
+    tier: '1000'
+  - id: emotesv2_09b52867628d41dda552838770af6952
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_09b52867628d41dda552838770af6952/static/light/3.0
+    name: primeagenQuality
+    tier: '1000'
+  - id: emotesv2_ac0f4aff33e740549e523c2e0766c5f5
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_ac0f4aff33e740549e523c2e0766c5f5/static/light/3.0
+    name: primeagenCheese
+    tier: '1000'
+  - id: emotesv2_9563bf5e847a47a89d53b1db3ff1976d
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_9563bf5e847a47a89d53b1db3ff1976d/static/light/3.0
+    name: primeagenGma
+    tier: '1000'
+  - id: emotesv2_0b8abeeb76bf47968b6e0a631fab8f6f
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_0b8abeeb76bf47968b6e0a631fab8f6f/static/light/3.0
+    name: primeagenSon
+    tier: '1000'
+  - id: '303278937'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/303278937/static/light/3.0
+    name: primeagenPog
+    tier: '1000'
+  - id: emotesv2_9e8b128b3774424f95ae5819926c1e4c
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_9e8b128b3774424f95ae5819926c1e4c/static/light/3.0
+    name: primeagenHeyy
+    tier: '1000'
+  - id: '301630662'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/301630662/static/light/3.0
+    name: primeagenEw
+    tier: '1000'
+  - id: '300680849'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/300680849/static/light/3.0
+    name: primeagenRust
+    tier: '1000'
+  id: '167160215'
+  login: theprimeagen
+sodapoppin:
+  emotes:
+  - id: emotesv2_5233fe93246c4bd1a50794c0eacee54a
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_5233fe93246c4bd1a50794c0eacee54a/static/light/3.0
+    name: sodaCheers
+    tier: '1000'
+  - id: emotesv2_d4c22275aaf34288afdade5d3b633111
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_d4c22275aaf34288afdade5d3b633111/static/light/3.0
+    name: sodaPatting
+    tier: '1000'
+  - id: emotesv2_07ad301d953a4522b550233ae08a3619
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_07ad301d953a4522b550233ae08a3619/static/light/3.0
+    name: sodaClap
+    tier: '1000'
+  - id: emotesv2_58918fef1ee94cd0a500b5d595a5b0b0
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_58918fef1ee94cd0a500b5d595a5b0b0/static/light/3.0
+    name: sodaSteer
+    tier: '1000'
+  - id: '302918474'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/302918474/static/light/3.0
+    name: sodaGun
+    tier: '1000'
+  - id: '305195576'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/305195576/static/light/3.0
+    name: sodaShy
+    tier: '1000'
+  - id: emotesv2_240fd737745744aa9c057320984f15c0
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_240fd737745744aa9c057320984f15c0/static/light/3.0
+    name: sodaLOSE
+    tier: '1000'
+  - id: emotesv2_1f5b50a0f8b844a9a12df2bbb740de16
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_1f5b50a0f8b844a9a12df2bbb740de16/static/light/3.0
+    name: sodaModcheck
+    tier: '1000'
+  - id: '305296681'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/305296681/static/light/3.0
+    name: sodaCult
+    tier: '1000'
+  - id: '306690575'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/306690575/static/light/3.0
+    name: soda1
+    tier: '3000'
+  - id: emotesv2_ff41f8f0a8224f9a9fcaa55b8b0b9c93
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_ff41f8f0a8224f9a9fcaa55b8b0b9c93/static/light/3.0
+    name: sodaMhm
+    tier: '1000'
+  - id: '306670835'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/306670835/static/light/3.0
+    name: sodaLL
+    tier: '2000'
+  - id: '305142644'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/305142644/static/light/3.0
+    name: sodaPray
+    tier: '1000'
+  - id: emotesv2_6a18c763070c4716b997c31bef57d398
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_6a18c763070c4716b997c31bef57d398/static/light/3.0
+    name: sodaNODDERS
+    tier: '1000'
+  - id: '305470476'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/305470476/static/light/3.0
+    name: sodaMad
+    tier: '1000'
+  - id: emotesv2_f4bd95f5dd614357b9784132674ecc73
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_f4bd95f5dd614357b9784132674ecc73/static/light/3.0
+    name: sodaSubs
+    tier: '1000'
+  - id: emotesv2_c69bac642330400db5f9ed946f430234
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_c69bac642330400db5f9ed946f430234/static/light/3.0
+    name: sodaVnodders
+    tier: '1000'
+  - id: emotesv2_62af7a1148e94f41a71eccf85ff61782
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_62af7a1148e94f41a71eccf85ff61782/static/light/3.0
+    name: sodaWave
+    tier: '1000'
+  - id: '1948847'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/1948847/static/light/3.0
+    name: sodaPride
+    tier: '1000'
+  - id: emotesv2_0f03045403d144a9917091f1930574ed
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_0f03045403d144a9917091f1930574ed/static/light/3.0
+    name: sodaGpls
+    tier: '1000'
+  - id: '305179008'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/305179008/static/light/3.0
+    name: sodaYes
+    tier: '1000'
+  - id: emotesv2_5c2a6784f4ca47a8ae0ee8fc998e2675
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_5c2a6784f4ca47a8ae0ee8fc998e2675/static/light/3.0
+    name: sodaPls
+    tier: '1000'
+  - id: emotesv2_2f4647cccaa440b197de31d683178fc1
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_2f4647cccaa440b197de31d683178fc1/static/light/3.0
+    name: sodaPyah
+    tier: '1000'
+  - id: emotesv2_4e9b12f8f1224da1b3ae02e24d528463
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_4e9b12f8f1224da1b3ae02e24d528463/static/light/3.0
+    name: sodaDespair
+    tier: '1000'
+  - id: emotesv2_d0b822ffb4e04a03a0ac268a6118f647
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_d0b822ffb4e04a03a0ac268a6118f647/static/light/3.0
+    name: sodaPadoru
+    tier: '1000'
+  - id: '305142651'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/305142651/static/light/3.0
+    name: sodaOkay
+    tier: '1000'
+  - id: emotesv2_38c52a84090c413f8df2a7cc317a9667
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_38c52a84090c413f8df2a7cc317a9667/static/light/3.0
+    name: sodaWaytoodank
+    tier: '1000'
+  - id: '305179003'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/305179003/static/light/3.0
+    name: sodaSip
+    tier: '1000'
+  - id: '305258005'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/305258005/static/light/3.0
+    name: sodaLETS
+    tier: '3000'
+  - id: emotesv2_fabcb6f19b944748b8a6596adce04f28
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_fabcb6f19b944748b8a6596adce04f28/static/light/3.0
+    name: sodaDeadspin
+    tier: '1000'
+  - id: '1948554'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/1948554/static/light/3.0
+    name: sodaHP
+    tier: '1000'
+  - id: '306981881'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/306981881/static/light/3.0
+    name: sodaSmile
+    tier: '1000'
+  - id: emotesv2_691c1508d3214c77be970a6ad9c4845b
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_691c1508d3214c77be970a6ad9c4845b/static/light/3.0
+    name: sodaCheer
+    tier: '1000'
+  - id: emotesv2_347cec9e4932451ba9817cfecf0010be
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_347cec9e4932451ba9817cfecf0010be/static/light/3.0
+    name: sodaClown
+    tier: ''
+  - id: '302239891'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/302239891/static/light/3.0
+    name: sodaRob
+    tier: '1000'
+  - id: '304244071'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/304244071/static/light/3.0
+    name: sodaSTARE
+    tier: '1000'
+  - id: '307942158'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/307942158/static/light/3.0
+    name: sodaDrunk
+    tier: '1000'
+  - id: '306852107'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/306852107/static/light/3.0
+    name: sodaSO
+    tier: '2000'
+  - id: emotesv2_71e5e0a013104d859cb9c08213b3aa6e
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_71e5e0a013104d859cb9c08213b3aa6e/static/light/3.0
+    name: sodaSmash
+    tier: '1000'
+  - id: '1948579'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/1948579/static/light/3.0
+    name: sodaWOW
+    tier: ''
+  - id: '1949682'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/1949682/static/light/3.0
+    name: sodaC
+    tier: '1000'
+  - id: '306981814'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/306981814/static/light/3.0
+    name: sodaComfy
+    tier: '1000'
+  - id: '1949063'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/1949063/static/light/3.0
+    name: sodaS
+    tier: '1000'
+  - id: emotesv2_5da5ad1cf17c45ab95a7d62ce9d905c6
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_5da5ad1cf17c45ab95a7d62ce9d905c6/static/light/3.0
+    name: sodaPopcat
+    tier: '1000'
+  - id: emotesv2_7b5bfef68df0482488690bcb6b21ac37
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_7b5bfef68df0482488690bcb6b21ac37/static/light/3.0
+    name: sodaAYAYA
+    tier: '1000'
+  - id: emotesv2_4d0511a689ec4728a833f3aac5ad7225
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_4d0511a689ec4728a833f3aac5ad7225/static/light/3.0
+    name: sodaSadge
+    tier: '1000'
+  - id: '307094469'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/307094469/static/light/3.0
+    name: sodaPat
+    tier: '1000'
+  - id: emotesv2_8ac48951f085440ba727bdfd01c7df49
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_8ac48951f085440ba727bdfd01c7df49/static/light/3.0
+    name: sodaMeltdown
+    tier: '1000'
+  - id: emotesv2_01036f9182e4419caed245a3d7ab2789
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_01036f9182e4419caed245a3d7ab2789/static/light/3.0
+    name: sodaVnopers
+    tier: '1000'
+  - id: emotesv2_c2faecef32064751976b3215cc61ac79
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_c2faecef32064751976b3215cc61ac79/static/light/3.0
+    name: sodaNOPERS
+    tier: '1000'
+  - id: emotesv2_aa1fded4f8c943219a92fd95353ffb18
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_aa1fded4f8c943219a92fd95353ffb18/static/light/3.0
+    name: sodaWiggle
+    tier: '1000'
+  - id: '1948536'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/1948536/static/light/3.0
+    name: sodaG
+    tier: '1000'
+  - id: emotesv2_8d77c354d91c4e81a84fd7af6aca54b8
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_8d77c354d91c4e81a84fd7af6aca54b8/static/light/3.0
+    name: sodaExplaining
+    tier: '1000'
+  - id: emotesv2_f64337310e7242528e67f63822d319a5
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_f64337310e7242528e67f63822d319a5/static/light/3.0
+    name: sodaWICKEDA
+    tier: ''
+  - id: '306691952'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/306691952/static/light/3.0
+    name: sodaXD
+    tier: '2000'
+  - id: '307140068'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/307140068/static/light/3.0
+    name: sodaHappy
+    tier: '1000'
+  - id: emotesv2_9f86e80a6c904f46be7fb3eefcb73a8f
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_9f86e80a6c904f46be7fb3eefcb73a8f/static/light/3.0
+    name: sodaJam
+    tier: '1000'
+  - id: '305296674'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/305296674/static/light/3.0
+    name: sodaCry
+    tier: '1000'
+  - id: emotesv2_67c4b52099d6423c97e02c7fa9efb232
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_67c4b52099d6423c97e02c7fa9efb232/static/light/3.0
+    name: sodaH
+    tier: '1000'
+  - id: emotesv2_ac53769d35d64aff99edc1af38463b90
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_ac53769d35d64aff99edc1af38463b90/static/light/3.0
+    name: sodaBitrate
+    tier: '1000'
+  - id: emotesv2_547cdb705d9c4513bd4b02db522c3797
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_547cdb705d9c4513bd4b02db522c3797/static/light/3.0
+    name: sodaDance
+    tier: '1000'
+  - id: '305240051'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/305240051/static/light/3.0
+    name: sodaFacepalm
+    tier: '1000'
+  - id: '307853374'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/307853374/static/light/3.0
+    name: sodaCOP
+    tier: '1000'
+  - id: '306670849'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/306670849/static/light/3.0
+    name: sodaChamp
+    tier: '2000'
+  - id: '306690437'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/306690437/static/light/3.0
+    name: sodaSUFFER
+    tier: '1000'
+  - id: emotesv2_dfc258a611434d77950e008591cabc11
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_dfc258a611434d77950e008591cabc11/static/light/3.0
+    name: sodaHappi
+    tier: '1000'
+  - id: '304876195'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/304876195/static/light/3.0
+    name: sodaL2
+    tier: ''
+  - id: emotesv2_823b16bc10724094afc1e38d3cadc1f3
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_823b16bc10724094afc1e38d3cadc1f3/static/light/3.0
+    name: sodaSPIT
+    tier: '1000'
+  - id: '305257990'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/305257990/static/light/3.0
+    name: sodaKing
+    tier: '3000'
+  - id: '1949677'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/1949677/static/light/3.0
+    name: sodaW
+    tier: '1000'
+  - id: emotesv2_808a43cce5374f4aa864331fd4a0bd02
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_808a43cce5374f4aa864331fd4a0bd02/static/light/3.0
+    name: sodaPOUT
+    tier: '1000'
+  - id: emotesv2_1202c5a8bdbb4157a6583bb75b338365
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_1202c5a8bdbb4157a6583bb75b338365/static/light/3.0
+    name: sodaBonk
+    tier: '1000'
+  - id: emotesv2_bc0202ad4c6947f3bfca06560fcaeecf
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_bc0202ad4c6947f3bfca06560fcaeecf/static/light/3.0
+    name: sodaDAB
+    tier: '1000'
+  - id: emotesv2_0e8e75803e164ca481bed9585cde4222
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_0e8e75803e164ca481bed9585cde4222/static/light/3.0
+    name: sodaPopspin
+    tier: '1000'
+  - id: emotesv2_ed9e2b5d013846c4bc6b823fadb46a15
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_ed9e2b5d013846c4bc6b823fadb46a15/static/light/3.0
+    name: sodaRipbozo
+    tier: '1000'
+  - id: '306981874'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/306981874/static/light/3.0
+    name: sodaHide
+    tier: '1000'
+  - id: emotesv2_70b101a8f0514c39879375375071ffc8
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_70b101a8f0514c39879375375071ffc8/static/light/3.0
+    name: sodaLove
+    tier: '1000'
+  - id: emotesv2_4c721e29fd92409e92a2afe269edd0c5
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_4c721e29fd92409e92a2afe269edd0c5/static/light/3.0
+    name: sodaActually
+    tier: '1000'
+  - id: emotesv2_8cca1943553d4f54aae6982f84acdf97
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_8cca1943553d4f54aae6982f84acdf97/static/light/3.0
+    name: sodaREE
+    tier: '1000'
+  - id: '306669853'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/306669853/static/light/3.0
+    name: sodaHmm
+    tier: '1000'
+  - id: '305918289'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/305918289/static/light/3.0
+    name: sodaNOTE
+    tier: '1000'
+  - id: emotesv2_84b808666bc9486685e8ee8f09d0e6b9
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_84b808666bc9486685e8ee8f09d0e6b9/static/light/3.0
+    name: sodaVsneeze
+    tier: '1000'
+  - id: emotesv2_1bd8eeb3aff4480f9877c2966b50cbaf
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_1bd8eeb3aff4480f9877c2966b50cbaf/static/light/3.0
+    name: sodaWoow
+    tier: '1000'
+  - id: '1949540'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/1949540/static/light/3.0
+    name: sodaShovel
+    tier: '1000'
+  - id: emotesv2_4582e8b76d2f4acf90d343073e5a33e8
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_4582e8b76d2f4acf90d343073e5a33e8/static/light/3.0
+    name: sodaGamble
+    tier: '1000'
+  - id: '305178983'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/305178983/static/light/3.0
+    name: sodaNo
+    tier: '1000'
+  - id: '306065646'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/306065646/static/light/3.0
+    name: sodaWICKED
+    tier: '1000'
+  - id: emotesv2_b63fffcbd9f84ce6b3a03d5f75a5955b
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_b63fffcbd9f84ce6b3a03d5f75a5955b/static/light/3.0
+    name: sodaHeart
+    tier: ''
+  - id: '306690577'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/306690577/static/light/3.0
+    name: soda2
+    tier: '3000'
+  - id: '307094892'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/307094892/static/light/3.0
+    name: sodaOwO
+    tier: '1000'
+  - id: emotesv2_c7317b81d8da4e11afd391a83e7be099
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_c7317b81d8da4e11afd391a83e7be099/static/light/3.0
+    name: sodaIcant
+    tier: ''
+  - id: emotesv2_a4f9784c61464c17ad9ebf4b93c3121f
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_a4f9784c61464c17ad9ebf4b93c3121f/static/light/3.0
+    name: sodaV
+    tier: ''
+  - id: emotesv2_eca2d04d338c4c97a67d1579d8c69c61
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_eca2d04d338c4c97a67d1579d8c69c61/static/light/3.0
+    name: sodaSpin
+    tier: '1000'
+  - id: emotesv2_bf43ed9c4f0741a094f3752d189b560d
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_bf43ed9c4f0741a094f3752d189b560d/static/light/3.0
+    name: sodaSit
+    tier: '1000'
+  - id: emotesv2_73505acac027466cbb78e7e3cf72d30c
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_73505acac027466cbb78e7e3cf72d30c/static/light/3.0
+    name: sodaHUG
+    tier: '1000'
+  - id: '1948681'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/1948681/static/light/3.0
+    name: sodaNice
+    tier: '1000'
+  - id: '305276658'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/305276658/static/light/3.0
+    name: sodaEZ
+    tier: '1000'
+  - id: emotesv2_bb00b2e06a634479af0c5e60fd629d88
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_bb00b2e06a634479af0c5e60fd629d88/static/light/3.0
+    name: sodaWoke
+    tier: '1000'
+  - id: emotesv2_1e0e531bbd784f62af272f79783ba6b8
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_1e0e531bbd784f62af272f79783ba6b8/static/light/3.0
+    name: sodaSmoke
+    tier: '1000'
+  - id: '305918284'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/305918284/static/light/3.0
+    name: sodaBOOP
+    tier: '1000'
+  - id: emotesv2_10875297b507446badb3828f3d9e1f17
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_10875297b507446badb3828f3d9e1f17/static/light/3.0
+    name: sodaNow
+    tier: '1000'
+  - id: emotesv2_4ca269002a2b4bd4a6941b2f07dee581
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_4ca269002a2b4bd4a6941b2f07dee581/static/light/3.0
+    name: sodaFirework
+    tier: '1000'
+  - id: '304987159'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/304987159/static/light/3.0
+    name: sodaHi
+    tier: '1000'
+  - id: emotesv2_0323da57bfe64802817b7f4c246e0b2f
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_0323da57bfe64802817b7f4c246e0b2f/static/light/3.0
+    name: sodaCrying
+    tier: '1000'
+  - id: emotesv2_4f7d78b1637842689072776c795ed43f
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_4f7d78b1637842689072776c795ed43f/static/light/3.0
+    name: sodaJammies
+    tier: '1000'
+  - id: emotesv2_4cc96c3510d94883b4c753a31421d7f1
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_4cc96c3510d94883b4c753a31421d7f1/static/light/3.0
+    name: sodaHYPERS
+    tier: ''
+  - id: emotesv2_cc5009c083bb4bc68328aa668369a8af
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_cc5009c083bb4bc68328aa668369a8af/static/light/3.0
+    name: sodaTantrum
+    tier: '1000'
+  - id: emotesv2_a3aa9763b5b94a38bf592ba9ef26fccc
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_a3aa9763b5b94a38bf592ba9ef26fccc/static/light/3.0
+    name: sodaD
+    tier: '1000'
+  - id: '305142646'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/305142646/static/light/3.0
+    name: sodaSadCat
+    tier: '1000'
+  - id: emotesv2_757e7bed762e4cd1a60b53f57604f10f
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_757e7bed762e4cd1a60b53f57604f10f/static/light/3.0
+    name: sodaGiggle
+    tier: '1000'
+  - id: emotesv2_19f5bff38af643b0a3e97961d5cd2200
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_19f5bff38af643b0a3e97961d5cd2200/static/light/3.0
+    name: sodaRich
+    tier: '2000'
+  - id: emotesv2_6529543f7e344817a073ecf2f724e792
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_6529543f7e344817a073ecf2f724e792/static/light/3.0
+    name: sodaNk
+    tier: '1000'
+  - id: emotesv2_70afaa636c03449a9b2e905de2b8d3bb
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_70afaa636c03449a9b2e905de2b8d3bb/static/light/3.0
+    name: sodaNoo
+    tier: '1000'
+  - id: emotesv2_7524d994791141758075f030f43260e9
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_7524d994791141758075f030f43260e9/static/light/3.0
+    name: sodaStand
+    tier: ''
+  - id: emotesv2_807383611e084ec2a0804c9c88305afb
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_807383611e084ec2a0804c9c88305afb/static/light/3.0
+    name: sodaOmega
+    tier: '1000'
+  - id: '306981846'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/306981846/static/light/3.0
+    name: sodaSleep
+    tier: '3000'
+  - id: '306690490'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/306690490/static/light/3.0
+    name: sodaWhatisthis
+    tier: '2000'
+  - id: emotesv2_be0bd5adaa134778b5e742445dd6bafb
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_be0bd5adaa134778b5e742445dd6bafb/static/light/3.0
+    name: sodaDink
+    tier: '1000'
+  - id: emotesv2_ecd0a936c3e64d549b905602e42dd1c1
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_ecd0a936c3e64d549b905602e42dd1c1/static/light/3.0
+    name: sodaBF
+    tier: '1000'
+  - id: emotesv2_fb439462cba84ba6891594f52ec2c81b
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_fb439462cba84ba6891594f52ec2c81b/static/light/3.0
+    name: sodaCredit
+    tier: '1000'
+  - id: '305976004'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/305976004/static/light/3.0
+    name: sodaDead
+    tier: '1000'
+  - id: emotesv2_63b6dc7bb00949909b66196c94409123
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_63b6dc7bb00949909b66196c94409123/static/light/3.0
+    name: sodaSmug
+    tier: '1000'
+  - id: emotesv2_8b0cbe5a82af439abb08f35eaaca2280
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_8b0cbe5a82af439abb08f35eaaca2280/static/light/3.0
+    name: sodaCowboy
+    tier: '1000'
+  - id: '305195580'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/305195580/static/light/3.0
+    name: sodaSmirk
+    tier: '1000'
+  - id: emotesv2_d7130bf1fb6c41e1afc6149529c87d38
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_d7130bf1fb6c41e1afc6149529c87d38/static/light/3.0
+    name: sodaO
+    tier: '1000'
+  - id: '304876188'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/304876188/static/light/3.0
+    name: sodaL
+    tier: '1000'
+  - id: emotesv2_fbff1cce7d684246bbf2c494bc7c76b3
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_fbff1cce7d684246bbf2c494bc7c76b3/static/light/3.0
+    name: sodaPog
+    tier: '1000'
+  - id: '307424908'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/307424908/static/light/3.0
+    name: sodaFat
+    tier: '1000'
+  - id: '306711750'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/306711750/static/light/3.0
+    name: sodaMeow
+    tier: '1000'
+  - id: emotesv2_c8250679bfda46e5a689331737574160
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_c8250679bfda46e5a689331737574160/static/light/3.0
+    name: sodaWAVE
+    tier: '1000'
+  - id: '305240057'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/305240057/static/light/3.0
+    name: sodaPeek
+    tier: '1000'
+  - id: emotesv2_c69e5994fc2f4b5eb25c472ea7679a0d
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_c69e5994fc2f4b5eb25c472ea7679a0d/static/light/3.0
+    name: sodaWine
+    tier: '1000'
+  id: '26301881'
+  login: sodapoppin
+vei:
+  emotes:
+  - id: emotesv2_f8630c5d05ff42a58fa47614222368e4
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_f8630c5d05ff42a58fa47614222368e4/static/light/3.0
+    name: veiH
+    tier: '1000'
+  - id: emotesv2_76b2a74a66eb41fbac510023b61c1ba1
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_76b2a74a66eb41fbac510023b61c1ba1/static/light/3.0
+    name: veiCozy
+    tier: '1000'
+  - id: emotesv2_91a860ebd8a44c7db37f50b5f691dd96
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_91a860ebd8a44c7db37f50b5f691dd96/static/light/3.0
+    name: veiGun
+    tier: '2000'
+  - id: emotesv2_81b7edf94f724f9db1cbb79633a92a3f
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_81b7edf94f724f9db1cbb79633a92a3f/static/light/3.0
+    name: veiNOOO
+    tier: '1000'
+  - id: emotesv2_49e566512ffb4c07a04ec2545d932a32
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_49e566512ffb4c07a04ec2545d932a32/static/light/3.0
+    name: veiYay
+    tier: '1000'
+  - id: emotesv2_a180377a3b734d4a86cd03dd03454a8f
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_a180377a3b734d4a86cd03dd03454a8f/static/light/3.0
+    name: veiSussy
+    tier: '1000'
+  - id: emotesv2_9b6b396c4d244713a4a1f9073704352e
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_9b6b396c4d244713a4a1f9073704352e/static/light/3.0
+    name: veiYes
+    tier: '1000'
+  - id: emotesv2_7c6754f3bd0a4a9ca8173ee29f24d4be
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_7c6754f3bd0a4a9ca8173ee29f24d4be/static/light/3.0
+    name: veiHuh
+    tier: '1000'
+  - id: emotesv2_ceee3a3c774045f39abd2dae7c771ac0
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_ceee3a3c774045f39abd2dae7c771ac0/static/light/3.0
+    name: veiMlady
+    tier: '1000'
+  - id: emotesv2_218d192de77e4b229e26d76044c9f29e
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_218d192de77e4b229e26d76044c9f29e/static/light/3.0
+    name: veiFine
+    tier: '1000'
+  - id: emotesv2_9cfbcf9ce728418ca9fc00c760204c9f
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_9cfbcf9ce728418ca9fc00c760204c9f/static/light/3.0
+    name: veiHyper
+    tier: '1000'
+  - id: emotesv2_8782cf282c2c4f519102856cc06e759d
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_8782cf282c2c4f519102856cc06e759d/static/light/3.0
+    name: veiLate
+    tier: '3000'
+  - id: emotesv2_83d56b104b034e21a134328b1e658655
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_83d56b104b034e21a134328b1e658655/static/light/3.0
+    name: veiO
+    tier: '1000'
+  - id: emotesv2_18bd4d99da0c4ca7891c64097bed3e38
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_18bd4d99da0c4ca7891c64097bed3e38/static/light/3.0
+    name: veiGaming
+    tier: '1000'
+  - id: emotesv2_f37e5761e48f439789c53c739860d2c6
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_f37e5761e48f439789c53c739860d2c6/static/light/3.0
+    name: veiNo
+    tier: '1000'
+  - id: emotesv2_3c721ba4ef744bba91223ffbb0ddf3ed
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_3c721ba4ef744bba91223ffbb0ddf3ed/static/light/3.0
+    name: veiBully
+    tier: ''
+  - id: emotesv2_79e282e4ed7a447ab68109b088502915
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_79e282e4ed7a447ab68109b088502915/static/light/3.0
+    name: veiS
+    tier: '1000'
+  - id: emotesv2_c12f0c55438d44c9b668a27ba0c63308
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_c12f0c55438d44c9b668a27ba0c63308/static/light/3.0
+    name: veiWave
+    tier: '1000'
+  - id: emotesv2_71434ca478954b5a93ad1322a6dd7850
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_71434ca478954b5a93ad1322a6dd7850/static/light/3.0
+    name: veiHmm
+    tier: '1000'
+  - id: emotesv2_2a099a11b15d4828b1d3f1dcb4c3f1f7
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_2a099a11b15d4828b1d3f1dcb4c3f1f7/static/light/3.0
+    name: veiNote
+    tier: '1000'
+  - id: emotesv2_1bafb062c31a46eb8a51794193a34975
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_1bafb062c31a46eb8a51794193a34975/static/light/3.0
+    name: veiDown
+    tier: '1000'
+  - id: emotesv2_6f2890b2acc44be2bfea7366c2744a13
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_6f2890b2acc44be2bfea7366c2744a13/static/light/3.0
+    name: veiPoor
+    tier: ''
+  - id: emotesv2_dff06a3f69e94a80bef21e1c85571373
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_dff06a3f69e94a80bef21e1c85571373/static/light/3.0
+    name: veiRich
+    tier: '3000'
+  - id: emotesv2_50b212f032af4507a77576f909212cbb
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_50b212f032af4507a77576f909212cbb/static/light/3.0
+    name: veiRaid
+    tier: '1000'
+  - id: emotesv2_9bce917cbc3c4b71b08686127197f14a
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_9bce917cbc3c4b71b08686127197f14a/static/light/3.0
+    name: veiICANT
+    tier: '1000'
+  - id: emotesv2_3990b175ac0c42ff89051acbe0ecba9b
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_3990b175ac0c42ff89051acbe0ecba9b/static/light/3.0
+    name: veiShrug
+    tier: '1000'
+  - id: emotesv2_bb2b3422e081449fb952acfae6beb7cc
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_bb2b3422e081449fb952acfae6beb7cc/static/light/3.0
+    name: veiSip
+    tier: '1000'
+  - id: emotesv2_c6a1b5658b70480c844b0aa2827eb475
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_c6a1b5658b70480c844b0aa2827eb475/static/light/3.0
+    name: veiNodders
+    tier: '1000'
+  - id: emotesv2_88b43e2b83d74cc997a922ceadbab8c2
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_88b43e2b83d74cc997a922ceadbab8c2/static/light/3.0
+    name: veiNopers
+    tier: '1000'
+  - id: emotesv2_e31f278bc06843dba540fa718c0ad121
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_e31f278bc06843dba540fa718c0ad121/static/light/3.0
+    name: veiDent
+    tier: '1000'
+  - id: emotesv2_f43f231fc4a64a2dba1ea6ecac000995
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_f43f231fc4a64a2dba1ea6ecac000995/static/light/3.0
+    name: veiNerdge
+    tier: '1000'
+  - id: emotesv2_901c70c0be694624ab2e17705e97d4bc
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_901c70c0be694624ab2e17705e97d4bc/static/light/3.0
+    name: veiClassic
+    tier: '1000'
+  - id: emotesv2_8b76f4f7d79146aa99ae35f73ef6e11b
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_8b76f4f7d79146aa99ae35f73ef6e11b/static/light/3.0
+    name: veiUno
+    tier: '3000'
+  - id: emotesv2_f3f9cf2158e54e1d8d6413e29c241c44
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_f3f9cf2158e54e1d8d6413e29c241c44/static/light/3.0
+    name: veiChatting
+    tier: '1000'
+  - id: emotesv2_0f4936c1c50f4a84a3ccf6f730ce7c9d
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_0f4936c1c50f4a84a3ccf6f730ce7c9d/static/light/3.0
+    name: veiScheming
+    tier: '1000'
+  - id: emotesv2_e6485159486a4c828e3a52796efdfe32
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_e6485159486a4c828e3a52796efdfe32/static/light/3.0
+    name: veiCuddle
+    tier: ''
+  - id: emotesv2_0168f40f1ffc40709c0a1e29bc74bfee
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_0168f40f1ffc40709c0a1e29bc74bfee/static/light/3.0
+    name: veiMODS
+    tier: '1000'
+  - id: emotesv2_3ba577a756f24affacbbc55ba6a26cf1
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_3ba577a756f24affacbbc55ba6a26cf1/static/light/3.0
+    name: veiHug
+    tier: '1000'
+  - id: emotesv2_1bf10b80d4c746c283add2aaaaf5e567
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_1bf10b80d4c746c283add2aaaaf5e567/static/light/3.0
+    name: veiUppies
+    tier: ''
+  - id: emotesv2_da3f316d04e644c29dc011dfe4cb518e
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_da3f316d04e644c29dc011dfe4cb518e/static/light/3.0
+    name: veiHEH
+    tier: '1000'
+  - id: emotesv2_339192f527264ce3875262d34b8c049c
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_339192f527264ce3875262d34b8c049c/static/light/3.0
+    name: veiAww
+    tier: '1000'
+  - id: emotesv2_d7869f5d99f24f4cb43eb9a5803249ab
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_d7869f5d99f24f4cb43eb9a5803249ab/static/light/3.0
+    name: veiFlower
+    tier: '1000'
+  - id: emotesv2_2b43afda2dfc43e1b42e7324eac5f009
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_2b43afda2dfc43e1b42e7324eac5f009/static/light/3.0
+    name: veiFight
+    tier: '2000'
+  - id: emotesv2_85baa015d8b14d9d9b13dcb3db06e081
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_85baa015d8b14d9d9b13dcb3db06e081/static/light/3.0
+    name: veiNerd
+    tier: '1000'
+  - id: emotesv2_f65c21bfff0e4b489307e24b8c89a30b
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_f65c21bfff0e4b489307e24b8c89a30b/static/light/3.0
+    name: veiPat
+    tier: '1000'
+  - id: emotesv2_8ba1cca0901b4f4e938737d7ec7b2725
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_8ba1cca0901b4f4e938737d7ec7b2725/static/light/3.0
+    name: veiLost
+    tier: '1000'
+  - id: emotesv2_2af45de626d54408b92ef824857ddd57
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_2af45de626d54408b92ef824857ddd57/static/light/3.0
+    name: veiCringe
+    tier: '1000'
+  - id: emotesv2_d4a63c950c1b46118e2af937cfaf9fa6
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_d4a63c950c1b46118e2af937cfaf9fa6/static/light/3.0
+    name: veiCheering
+    tier: ''
+  - id: emotesv2_2b84e739ee514661bce724f07f428b74
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_2b84e739ee514661bce724f07f428b74/static/light/3.0
+    name: veiTaunt
+    tier: '1000'
+  - id: emotesv2_026d0abfaf1248dbac4828dcca41de2e
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_026d0abfaf1248dbac4828dcca41de2e/static/light/3.0
+    name: veiGift
+    tier: ''
+  - id: emotesv2_577eb0bdcb404146935458dec9ac7c09
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_577eb0bdcb404146935458dec9ac7c09/static/light/3.0
+    name: veiEZ
+    tier: '2000'
+  - id: emotesv2_897fde005e3545b78e959636e872503b
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_897fde005e3545b78e959636e872503b/static/light/3.0
+    name: veiCope
+    tier: '1000'
+  - id: emotesv2_777a7bb6a0d74a648ac38d3f32c97dcf
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_777a7bb6a0d74a648ac38d3f32c97dcf/static/light/3.0
+    name: veiBored
+    tier: '1000'
+  - id: emotesv2_1b84acb24ae8432cbdb388c14a74bdc7
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_1b84acb24ae8432cbdb388c14a74bdc7/static/light/3.0
+    name: veiARG
+    tier: '2000'
+  - id: emotesv2_db8a1d3752b64dcdaae15288c55a6a42
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_db8a1d3752b64dcdaae15288c55a6a42/static/light/3.0
+    name: veiPray
+    tier: ''
+  - id: emotesv2_d87c1ddb45904c3e988549b515a995b2
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_d87c1ddb45904c3e988549b515a995b2/static/light/3.0
+    name: veiBark
+    tier: '1000'
+  - id: emotesv2_b87ef9ecf60047379b82e26917b0b4c0
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_b87ef9ecf60047379b82e26917b0b4c0/static/light/3.0
+    name: veiPls
+    tier: '1000'
+  - id: emotesv2_be1b94cdd2c1469faafbf1068a65efea
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_be1b94cdd2c1469faafbf1068a65efea/static/light/3.0
+    name: veiNOW
+    tier: '1000'
+  - id: emotesv2_0c8e837f68c24eb891708da46b8ae7fb
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_0c8e837f68c24eb891708da46b8ae7fb/static/light/3.0
+    name: veiSit
+    tier: '1000'
+  - id: emotesv2_483c5bad20b340169d736b2493708673
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_483c5bad20b340169d736b2493708673/static/light/3.0
+    name: veiUp
+    tier: '1000'
+  - id: emotesv2_1da34c8d4fc6414a99cc136b1c6cde06
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_1da34c8d4fc6414a99cc136b1c6cde06/static/light/3.0
+    name: veiWokege
+    tier: '1000'
+  - id: emotesv2_f3724b43404b43f7a83d9db38c4b10f5
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_f3724b43404b43f7a83d9db38c4b10f5/static/light/3.0
+    name: veiCBT
+    tier: '1000'
+  - id: emotesv2_22398b6b1d584187aa3024012785f6bf
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_22398b6b1d584187aa3024012785f6bf/static/light/3.0
+    name: veiRaging
+    tier: '1000'
+  - id: emotesv2_5cdc751617524ca497990028b39fdd67
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_5cdc751617524ca497990028b39fdd67/static/light/3.0
+    name: veiWaiting
+    tier: '1000'
+  - id: emotesv2_a1577551d6484f01857b6a888d24033b
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_a1577551d6484f01857b6a888d24033b/static/light/3.0
+    name: veiAware
+    tier: '1000'
+  - id: emotesv2_9cd73de5de0b4aa9aa38a9e8dc126c62
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_9cd73de5de0b4aa9aa38a9e8dc126c62/static/light/3.0
+    name: veiJam
+    tier: '1000'
+  - id: emotesv2_6abd7e3862584066ac289960d439b33f
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_6abd7e3862584066ac289960d439b33f/static/light/3.0
+    name: veiStare
+    tier: '1000'
+  - id: emotesv2_0a7794d2cdac4900ac73fdd79a5040e8
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_0a7794d2cdac4900ac73fdd79a5040e8/static/light/3.0
+    name: veiFLASHBANG
+    tier: '1000'
+  - id: emotesv2_3056f954f2a948489955d2bdb7ac9c5a
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_3056f954f2a948489955d2bdb7ac9c5a/static/light/3.0
+    name: veiXD
+    tier: '2000'
+  - id: emotesv2_ec4b3badead84167ab8711ab18118f10
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_ec4b3badead84167ab8711ab18118f10/static/light/3.0
+    name: veiYapping
+    tier: '1000'
+  - id: emotesv2_68f95d14921b407c9fc319ddff12e569
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_68f95d14921b407c9fc319ddff12e569/static/light/3.0
+    name: veiRight
+    tier: '1000'
+  - id: emotesv2_9ae14809828b4ff6833410d7190dd4ae
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_9ae14809828b4ff6833410d7190dd4ae/static/light/3.0
+    name: veiStop
+    tier: '1000'
+  - id: '304296503'
+    image: https://static-cdn.jtvnw.net/emoticons/v2/304296503/static/light/3.0
+    name: veiWow
+    tier: '1000'
+  - id: emotesv2_3d09a9dd1d4f433b8dce302fc7016475
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_3d09a9dd1d4f433b8dce302fc7016475/static/light/3.0
+    name: veiDank
+    tier: '1000'
+  - id: emotesv2_5509ceff853342f795c20f48ff1bf9e5
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_5509ceff853342f795c20f48ff1bf9e5/static/light/3.0
+    name: veiBlush
+    tier: '1000'
+  - id: emotesv2_69e93b826cb5424bb0be22cc2248f39b
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_69e93b826cb5424bb0be22cc2248f39b/static/light/3.0
+    name: veiCry
+    tier: '1000'
+  - id: emotesv2_d267e149dab34a1fb88b55b1f064f8d3
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_d267e149dab34a1fb88b55b1f064f8d3/static/light/3.0
+    name: veiBased
+    tier: '1000'
+  - id: emotesv2_65ab445ce0394c999ea4c8097d5ccc1e
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_65ab445ce0394c999ea4c8097d5ccc1e/static/light/3.0
+    name: veiNoted
+    tier: '1000'
+  - id: emotesv2_cd2af0568c564e6684227105b8c09715
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_cd2af0568c564e6684227105b8c09715/static/light/3.0
+    name: veiOMEGALUL
+    tier: '1000'
+  - id: emotesv2_cc4d322209cd41609f3fa38aeb75ac48
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_cc4d322209cd41609f3fa38aeb75ac48/static/light/3.0
+    name: veiFail
+    tier: '1000'
+  - id: emotesv2_fedc659c6ad1475680e7063cdfddb007
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_fedc659c6ad1475680e7063cdfddb007/static/light/3.0
+    name: veiBedge
+    tier: '1000'
+  - id: emotesv2_e4c4c15515584dc1bc680396a67b37a4
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_e4c4c15515584dc1bc680396a67b37a4/static/light/3.0
+    name: veiIC
+    tier: '1000'
+  - id: emotesv2_ed7764fe28774237853eae72f7e5be43
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_ed7764fe28774237853eae72f7e5be43/static/light/3.0
+    name: veiAwoo
+    tier: '1000'
+  - id: emotesv2_0fd374ca01c54f20968c6315274c8caf
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_0fd374ca01c54f20968c6315274c8caf/static/light/3.0
+    name: veiWicked
+    tier: ''
+  - id: emotesv2_e9e6b365d4be4abf89658d54c8bef3a6
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_e9e6b365d4be4abf89658d54c8bef3a6/static/light/3.0
+    name: veiGG
+    tier: ''
+  - id: emotesv2_ab1ded8f65de443cb421eb54783dd174
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_ab1ded8f65de443cb421eb54783dd174/static/light/3.0
+    name: veiBlind
+    tier: '1000'
+  - id: emotesv2_2babff0ff54d4383b31d381a0c86f627
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_2babff0ff54d4383b31d381a0c86f627/static/light/3.0
+    name: veiShy
+    tier: '3000'
+  - id: emotesv2_07a753cf7ac24eb6a82a107ee0e9de3b
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_07a753cf7ac24eb6a82a107ee0e9de3b/static/light/3.0
+    name: veiSigh
+    tier: ''
+  - id: emotesv2_6f50b50160bf46f49f3123d64352941a
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_6f50b50160bf46f49f3123d64352941a/static/light/3.0
+    name: veiWat
+    tier: '1000'
+  - id: emotesv2_e0aa2cca7d7d4c2d81fde463df3727c6
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_e0aa2cca7d7d4c2d81fde463df3727c6/static/light/3.0
+    name: veiHmph
+    tier: '1000'
+  - id: emotesv2_cd325516706145379a1d07eacda317bf
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_cd325516706145379a1d07eacda317bf/static/light/3.0
+    name: veiSalute
+    tier: '1000'
+  - id: emotesv2_50e9a428dc2a40bdb1fa7472957b96fb
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_50e9a428dc2a40bdb1fa7472957b96fb/static/light/3.0
+    name: veiShock
+    tier: '3000'
+  - id: emotesv2_92b5d1741bdc49018ce802e76167b38d
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_92b5d1741bdc49018ce802e76167b38d/static/light/3.0
+    name: veiPausers
+    tier: '1000'
+  - id: emotesv2_1f1233f708ea45adb35c727c8951ee94
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_1f1233f708ea45adb35c727c8951ee94/static/light/3.0
+    name: veiPrime
+    tier: ''
+  - id: emotesv2_2c9d072d02254612987b04ecc2c0f0d7
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_2c9d072d02254612987b04ecc2c0f0d7/static/light/3.0
+    name: veiCorpa
+    tier: '1000'
+  - id: emotesv2_2cb28cf31d6f45d5ae79ba1806b4e295
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_2cb28cf31d6f45d5ae79ba1806b4e295/static/light/3.0
+    name: veiSmadge
+    tier: '1000'
+  - id: emotesv2_d01c8defac6d445b9a1e86a72a8a6b4b
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_d01c8defac6d445b9a1e86a72a8a6b4b/static/light/3.0
+    name: veiBits
+    tier: ''
+  - id: emotesv2_9adc6461233844e78ef008bf9c709ec9
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_9adc6461233844e78ef008bf9c709ec9/static/light/3.0
+    name: veiOld
+    tier: '1000'
+  - id: emotesv2_9d7eb5792e5d4b2caf870d8a8ae1be06
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_9d7eb5792e5d4b2caf870d8a8ae1be06/static/light/3.0
+    name: veiTired
+    tier: '1000'
+  - id: emotesv2_b7dbeccfdf134b7c9471c81bee4d1305
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_b7dbeccfdf134b7c9471c81bee4d1305/static/light/3.0
+    name: veiEvil
+    tier: '1000'
+  - id: emotesv2_d6db722ee98c43cf9dac8eb34a6828ef
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_d6db722ee98c43cf9dac8eb34a6828ef/static/light/3.0
+    name: veiAngry
+    tier: '1000'
+  - id: emotesv2_b97ed2b642564aa4b25e1a4a795c7170
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_b97ed2b642564aa4b25e1a4a795c7170/static/light/3.0
+    name: veiSCAM
+    tier: '1000'
+  - id: emotesv2_dc587c3c79224c78a3693509889c5337
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_dc587c3c79224c78a3693509889c5337/static/light/3.0
+    name: veiWiggle
+    tier: '1000'
+  - id: emotesv2_002f8d0b8a8c43c8becfbd25b126ad9d
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_002f8d0b8a8c43c8becfbd25b126ad9d/static/light/3.0
+    name: veiDIESOFCRINGE
+    tier: '1000'
+  - id: emotesv2_45e4bd11b7e34f63adb341568eec46a6
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_45e4bd11b7e34f63adb341568eec46a6/static/light/3.0
+    name: veiNOOOO
+    tier: ''
+  - id: emotesv2_4e300e59182f4231bf2ec2b38a2307dc
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_4e300e59182f4231bf2ec2b38a2307dc/static/light/3.0
+    name: veiSpin
+    tier: '1000'
+  - id: emotesv2_0aa0d80367254216acd0c23f1ce44a62
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_0aa0d80367254216acd0c23f1ce44a62/static/light/3.0
+    name: veiDab
+    tier: ''
+  - id: emotesv2_97e86b26bef74d74bf952ebce0d1fa01
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_97e86b26bef74d74bf952ebce0d1fa01/static/light/3.0
+    name: veiCheer
+    tier: '1000'
+  - id: emotesv2_c8f63ac25164408c9f438afc8b78041a
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_c8f63ac25164408c9f438afc8b78041a/static/light/3.0
+    name: veiLaughing
+    tier: '1000'
+  - id: emotesv2_384e0ed482da49c98375cf6ec7867c6a
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_384e0ed482da49c98375cf6ec7867c6a/static/light/3.0
+    name: veiBussin
+    tier: '1000'
+  - id: emotesv2_a86151c9f0eb495ab3900aca7174642f
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_a86151c9f0eb495ab3900aca7174642f/static/light/3.0
+    name: veiSmug
+    tier: '1000'
+  - id: emotesv2_0d71658c9b9840d4adb354ed55c86160
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_0d71658c9b9840d4adb354ed55c86160/static/light/3.0
+    name: veiPuke
+    tier: '1000'
+  - id: emotesv2_41e45b4a59a94608b98fd42a8889ad97
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_41e45b4a59a94608b98fd42a8889ad97/static/light/3.0
+    name: veiDonoWall
+    tier: '1000'
+  - id: emotesv2_411741086e3547b58048bfacb3be8b7d
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_411741086e3547b58048bfacb3be8b7d/static/light/3.0
+    name: veiPoint
+    tier: '1000'
+  - id: emotesv2_90d83c6db9544bb39daca84640da4523
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_90d83c6db9544bb39daca84640da4523/static/light/3.0
+    name: veiSpy
+    tier: '1000'
+  - id: emotesv2_bb99612cdd5c4d8293443c33db51b43e
+    image: https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_bb99612cdd5c4d8293443c33db51b43e/static/light/3.0
+    name: veiScared
+    tier: ''
+  id: '97245742'
+  login: vei

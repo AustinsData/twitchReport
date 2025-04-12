@@ -57,10 +57,11 @@ def run(streamer_title, input_folder_path, output_file, config_file_path, excel_
 
     # Load emote list
     streamer_emote_list = []
-    for streamer in config_data:
+    
+    for streamer, data in config_data.items():
         if streamer == streamer_title:
-            for streamer_emote in config_data[streamer_title]:
-                streamer_emote_list.append(streamer_emote)
+            for emote in data['emotes']:
+                streamer_emote_list.append(emote['name'])
     print(streamer_emote_list)
 
     # Read CSVs
@@ -159,7 +160,6 @@ def run(streamer_title, input_folder_path, output_file, config_file_path, excel_
         new_col = f"Total {col}"
         total_count = emote_df[col].sum()
         temp_summation.append(total_count)
-        print(f"Temp Sum: {col} -- {temp_summation}")
         emote_totals.append(total_count)
         new_series = pd.Series(temp_summation)
         emote_count_df[new_col] = new_series
